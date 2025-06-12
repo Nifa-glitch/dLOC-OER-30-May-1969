@@ -10,5 +10,5 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### The team
 
-
+![The team](assets/img/NAAM Groep.jpg)
 
