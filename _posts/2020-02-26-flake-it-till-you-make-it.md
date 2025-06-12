@@ -11,7 +11,7 @@ share-img: assets/img/huma (3).png
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et condimentum orci. Phasellus finibus risus at enim egestas vehicula. Maecenas tellus diam, pulvinar quis justo et, tempor efficitur mauris. Etiam malesuada tempus magna sit amet ullamcorper. Duis in lorem nec enim gravida sollicitudin nec a lorem. Curabitur quam ante, vestibulum eu consectetur in, gravida quis est. Nunc vestibulum viverra mattis. Duis elit felis, cursus at est eu, egestas lobortis turpis.
 
-![The Prottestors] assets/img/format_01_stakers_met_borden_voor_shell_terein_6_mei_1_medium_58c1113acb07d.jpg
+![The Prottestors]format_01_stakers_met_borden_voor_shell_terein_6_mei_1_medium_58c1113acb07d.jpg
 
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam libero nulla, consequat in lorem vitae, pellentesque viverra risus. Phasellus vulputate nisi non turpis pretium, id ultrices augue dapibus. Sed gravida nisl sed ex placerat, sed molestie erat mollis. Aliquam leo sapien, egestas sed metus eget, rhoncus facilisis lectus. 
 
