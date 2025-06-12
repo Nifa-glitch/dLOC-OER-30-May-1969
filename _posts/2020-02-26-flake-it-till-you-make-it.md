@@ -2,9 +2,9 @@
 layout: post
 title: Huma May 30, 1969
 subtitle: Extending beyond the smoke
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: assets/img/huma (3).png
+thumbnail-img: assets/img/huma (3).png
+share-img: assets/img/huma (3).png
 ---
 
 # Introduction
